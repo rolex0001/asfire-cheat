@@ -36,9 +36,9 @@ int loadSettingsFiles() {
 
     SHGetSpecialFolderPath ( NULL, dir, CSIDL_COMMON_DOCUMENTS, 0 ); //Find the Document directory location
 
-    settingsFile = static_cast< std::string > ( dir ) + "/Dainsleif/savedata.toml"; //Set file path.
-    offsetsFile = static_cast< std::string > ( dir ) + "/Dainsleif/offsets.toml";
-    tabStateFile = static_cast< std::string > ( dir ) + "/Dainsleif/tabstate.toml";
+    settingsFile = static_cast< std::string > ( dir ) + "/asfire/savedata.toml"; //Set file path.
+    offsetsFile = static_cast< std::string > ( dir ) + "/asfire/offsets.toml";
+    tabStateFile = static_cast< std::string > ( dir ) + "/asfire/tabstate.toml";
 
     std::filesystem::path path1{ settingsFile }, path2{ offsetsFile }, path3{ tabStateFile };
     std::filesystem::create_directories ( path1.parent_path ( ) );

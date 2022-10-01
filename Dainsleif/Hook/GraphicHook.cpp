@@ -137,7 +137,7 @@ HRESULT __stdcall HookedEndScene ( IDirect3DDevice9* pDevice ) //A function cont
         LoadTheme ( );
 
         ImGuiWindowFlags window_flags = ImGuiWindowFlags_MenuBar;
-        ImGui::Begin ( "Dainsleif", &g_ShowMenu, window_flags );
+        ImGui::Begin ( "asfire", &g_ShowMenu, window_flags );
 
         ShowMenuBar ( visibleHacks ); //tab
 

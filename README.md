@@ -13,20 +13,6 @@ You can select from two ways to build this hack.
 I believe all you need in order to build this project except DirectxSDK is already included which is [Minhook](https://github.com/TsudaKageyu/minhook), [ImGui](https://github.com/ocornut/imgui), and [toml11](https://github.com/ToruNiina/toml11).
 They're in Dependencies directory.
 
-### Build project
-
-**>>>>> edit(February 23, 2022) <<<<<**
-
-**Visit [Release](https://github.com/pseuxide/Dainsleif/releases) and download [Dainsleif v1.5](https://github.com/pseuxide/Dainsleif/releases/tag/v1.5), then build it with Visual Studio 2019 and its all done, ignore everything else below this. It's the easiest way to build this.**
-
-If you have Visual Studio 2019, you must installed `Developer Command Prompt for Visual Studio` at the same time.
-Launch it and go to any directory you wanna clone Dainsleif in, and run following commands.
-
-```Shell
-$ git clone https://github.com/pseuxide/Dainsleif.git --recursive
-$ cd Dainsleif
-```
-
 For compiling the cheat, there is a convenient batch script that automates the process. All you need to do is run it:
 
 ```Shell

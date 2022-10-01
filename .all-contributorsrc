@@ -1,0 +1,46 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "l1m0n3",
+      "name": "L1m0n3",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/13360351?v=4",
+      "profile": "https://github.com/l1m0n3",
+      "contributions": [
+        "code",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "tomsa000",
+      "name": "tomsa",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/45645938?v=4",
+      "profile": "https://github.com/tomsa000",
+      "contributions": [
+        "code",
+        "bug",
+        "ideas"
+      ]
+    },
+    {
+      "login": "0xZeno",
+      "name": "Peter Hackersøn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79898692?v=4",
+      "profile": "https://0xzeno.github.io/",
+      "contributions": [
+        "maintenance",
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Dainsleif",
+  "projectOwner": "s3pt3mb3r",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

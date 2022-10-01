@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.16)
-project(Dainsleif)
+project(asfire)
 
 set(CMAKE_CXX_STANDARD 17)
 
@@ -11,8 +11,8 @@ endif()
 
 #main directory and its sub-directories
 file(GLOB_RECURSE MAIN CONFIGURE_DEPENDS
-  ${CMAKE_CURRENT_LIST_DIR}/Dainsleif/*.cpp
-  ${CMAKE_CURRENT_LIST_DIR}/Dainsleif/*.h)
+  ${CMAKE_CURRENT_LIST_DIR}/asfire/*.cpp
+  ${CMAKE_CURRENT_LIST_DIR}/asfire/*.h)
 
 #minhook
 file(GLOB_RECURSE MINHOOK CONFIGURE_DEPENDS
@@ -35,9 +35,9 @@ set(DEPENDENCIES
   ${IMGUI}
   ${TOML})
 
-add_library(Dainsleif SHARED ${MAIN} ${DEPENDENCIES})
+add_library(asfire SHARED ${MAIN} ${DEPENDENCIES})
 
-target_include_directories(Dainsleif PRIVATE
+target_include_directories(asfire PRIVATE
   ${CMAKE_CURRENT_LIST_DIR}/Dependencies/imgui
   ${CMAKE_CURRENT_LIST_DIR}/Dependencies/imgui/backends
   ${CMAKE_CURRENT_LIST_DIR}/Dependencies/minhook/include
@@ -46,4 +46,4 @@ target_include_directories(Dainsleif PRIVATE
 
 find_library(D3D9 d3d9.lib $ENV{DXSDK_DIR}/Lib/x86)
 find_library(D3DX9 d3dx9.lib $ENV{DXSDK_DIR}/Lib/x86)
-target_link_libraries(Dainsleif ${D3D9} ${D3DX9})
+target_link_libraries(asfire ${D3D9} ${D3DX9})

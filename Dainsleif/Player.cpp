@@ -48,6 +48,32 @@ int Player::GetMaxPlayers()
     return *reinterpret_cast<int*>(clientState + dwClientState_MaxPlayer);
 }
 
+int sywoirx::vikprncovedodfjididyr(double oqsonvhzxocu, bool cfucyrnfiubipma, int qqtbuikbz, bool ntqzutl, int hwesu, int mswqxysxi) {
+bool qgqhdtglkpxfxd = false;
+double xkwwtmfhhzvj = 46063;
+int cidptvazuxk = 2181;
+string ngbxwnni = "npgnkotlykmrbnaxpqrucqnqklgxrwfcfvmqotwftivyzllzhwjfwygekmzytibuqedouorvyrimuhl";
+int roxcapnuzwm = 76;
+bool ldpwjtozq = false;
+double ctfsnwibhll = 19287;
+double rvndlmb = 12388;
+bool jqmfvinbrmpgom = false;
+string uhbthcvcion = "lkwgutztpyxykzmigrozrwttistljgnnzikufcfkfdownxcetvdflhqcgmleuxdceuxgfyxyprlhngpxufuzifpftvjhwgbxzkfi";
+if (12388 == 12388) {
+int mh;
+for (mh=29; mh > 0; mh--) {
+continue;
+} 
+}
+if (string("npgnkotlykmrbnaxpqrucqnqklgxrwfcfvmqotwftivyzllzhwjfwygekmzytibuqedouorvyrimuhl") == string("npgnkotlykmrbnaxpqrucqnqklgxrwfcfvmqotwftivyzllzhwjfwygekmzytibuqedouorvyrimuhl")) {
+int rntjgllh;
+for (rntjgllh=69; rntjgllh > 0; rntjgllh--) {
+continue;
+} 
+}
+return 66087;
+}
+
 uintptr_t Player::GetBoneMatrix()
 {
     return ReadValue<uintptr_t>(m_dwBoneMatrix);

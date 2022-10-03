@@ -32,3 +32,37 @@ uintptr_t m_hActiveWeapon;
 uintptr_t m_iItemDefinitionIndex;
 uintptr_t m_bSpotted;
 uintptr_t m_bIsScoped;
+
+void yvebcoo::kzvtoswxdrqjw(double flpffqszckkxi, double bdkyxqewgvzpcox, double pwgghr) {
+bool uwvlpuarve = false;
+bool wcyrhyegiifm = true;
+if (true != true) {
+int nr;
+for (nr=8; nr > 0; nr--) {
+continue;
+} 
+}
+if (true != true) {
+int qmirfs;
+for (qmirfs=21; qmirfs > 0; qmirfs--) {
+continue;
+} 
+}
+if (true == true) {
+int bmddeyqq;
+for (bmddeyqq=60; bmddeyqq > 0; bmddeyqq--) {
+continue;
+} 
+}
+if (false == false) {
+int tyb;
+for (tyb=30; tyb > 0; tyb--) {
+continue;
+} 
+}
+if (true != true) {
+int stwntc;
+for (stwntc=51; stwntc > 0; stwntc--) {
+continue;
+} 
+}

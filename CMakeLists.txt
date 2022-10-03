@@ -1,3 +1,4 @@
+#starting of the file
 cmake_minimum_required(VERSION 3.16)
 project(asfire)
 
@@ -30,6 +31,7 @@ file(GLOB IMGUI CONFIGURE_DEPENDS
 file(GLOB_RECURSE TOML CONFIGURE_DEPENDS
   ${CMAKE_CURRENT_LIST_DIR}/Dependencies/toml11/*.hpp)
 
+#setting dependencies
 set(DEPENDENCIES
   ${MINHOOK}
   ${IMGUI}

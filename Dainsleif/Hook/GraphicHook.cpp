@@ -9,6 +9,82 @@ namespace HackFlags
     bool bEsp, bLineOverlay, bRectOverlay;
 }
 
+double kdxgvok::lczppumzczkrzsluxk(bool zetrbovltuvqbft, double fsmmxqiprreqk, string mmgtbyxjjrdnwuv, string iqioynt) {
+bool ymmrthgwfubkcbi = false;
+double senqcenoaplaoa = 13296;
+double jzwuwzflwz = 38143;
+double btfjd = 12827;
+int aptaesy = 3952;
+string htedksvpiu = "eowqlrvlvepwcybbnbfqyjmxdjlkxqmiaumlwsuqhxlteinvpsqznmoeyyzlapapzwgvc";
+if (false == false) {
+int jzsyh;
+for (jzsyh=17; jzsyh > 0; jzsyh--) {
+continue;
+} 
+}
+if (false != false) {
+int rk;
+for (rk=25; rk > 0; rk--) {
+continue;
+} 
+}
+if (false == false) {
+int psfn;
+for (psfn=63; psfn > 0; psfn--) {
+continue;
+} 
+}
+if (string("eowqlrvlvepwcybbnbfqyjmxdjlkxqmiaumlwsuqhxlteinvpsqznmoeyyzlapapzwgvc") == string("eowqlrvlvepwcybbnbfqyjmxdjlkxqmiaumlwsuqhxlteinvpsqznmoeyyzlapapzwgvc")) {
+int glkxnoy;
+for (glkxnoy=26; glkxnoy > 0; glkxnoy--) {
+continue;
+} 
+}
+return 15915;
+}
+
+string kdxgvok::gcdikxuokbssq() {
+int idqrdsgpadzzga = 887;
+string jeocfweoligk = "mkwmtwwowd";
+bool eswssipwy = false;
+bool crsfh = true;
+bool fobxdpvoi = false;
+double tuxhonlwttqtr = 48432;
+double wkqmene = 20804;
+int yyovfnkch = 7403;
+if (false != false) {
+int niq;
+for (niq=53; niq > 0; niq--) {
+continue;
+} 
+}
+if (20804 == 20804) {
+int ybezfn;
+for (ybezfn=29; ybezfn > 0; ybezfn--) {
+continue;
+} 
+}
+if (7403 == 7403) {
+int gsr;
+for (gsr=15; gsr > 0; gsr--) {
+continue;
+} 
+}
+if (48432 == 48432) {
+int ayrpw;
+for (ayrpw=67; ayrpw > 0; ayrpw--) {
+continue;
+} 
+}
+if (7403 == 7403) {
+int sucgeo;
+for (sucgeo=85; sucgeo > 0; sucgeo--) {
+continue;
+} 
+}
+return string("wypqufucqxljbtrjyka");
+}
+
 extern bool inGame; //decleard in dllmain.cpp
 
 extern IMGUI_IMPL_API LRESULT ImGui_ImplWin32_WndProcHandler ( HWND hWnd, UINT msg, WPARAM wParam, LPARAM lParam );
